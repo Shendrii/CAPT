@@ -1,5 +1,4 @@
 # CAPT
-capstone project
 
 
 
